@@ -3,8 +3,7 @@ public class Test1 {
      int myNumber=10;
      double d=5.5,dd;
      dd=myNumber; //widening conversion
-     System.out.println(d);
-     System.out.println(dd);
+     myNumber=(int)d; //Norrowing conversuin
      System.out.println(myNumber);
        
     }
