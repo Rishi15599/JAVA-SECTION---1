@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class ArmstrongNumber1 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.err.println("Enter the number :");
+        System.out.println("Enter the number :");
         int num=sc.nextInt();
         int num1=num;
         int num2=num;
