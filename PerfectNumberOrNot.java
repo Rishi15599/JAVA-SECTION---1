@@ -1,4 +1,4 @@
-//write aprogram to cheak given number is perfect or not
+//write aprogram to cheak given number is perfect number or not
 
 import java.util.Scanner;
 public class PerfectNumberOrNot {
@@ -19,3 +19,4 @@ public class PerfectNumberOrNot {
         
     }
 }
+//perfect number 6
