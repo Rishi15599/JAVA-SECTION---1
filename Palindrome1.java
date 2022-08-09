@@ -1,7 +1,9 @@
-
+//write a program to cheak palindrome number
+import java.util.Scanner;
 public class Palindrome1 {
     public static void main(String[] args) {
-        int  number=171;
+        Scanner sc=new Scanner(System.in);
+        int  number=sc.nextInt();
         int temp=number;
         int rev=0,rem;
         while(temp !=0)
@@ -21,3 +23,4 @@ public class Palindrome1 {
     }
 
 }
+//pailndrome number , 171=171
