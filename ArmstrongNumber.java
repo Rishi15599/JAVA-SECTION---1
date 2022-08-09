@@ -1,6 +1,11 @@
+//write a program to cheak Armstrong number
+
+import java.util.Scanner;
 public class ArmstrongNumber{
     public static void main(String[] args) {
-        int num=1634;
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the number :");
+        int num=sc.nextInt();
         int count=0;
         int num2=num;
         int num1=num;
@@ -26,3 +31,4 @@ public class ArmstrongNumber{
         }
     }
 }
+//ArmstrongNumber = 153 = 1!+ 5! +3! = 153
