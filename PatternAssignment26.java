@@ -1,3 +1,8 @@
+// a
+// bc
+// cde
+// defg
+
 public class PatternAssignment26 {
     public static void main(String[] args) {
         int row=4;

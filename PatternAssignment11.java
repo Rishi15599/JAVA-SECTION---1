@@ -1,3 +1,8 @@
+// ****
+// ** *
+// * **
+// ****
+
 public class PatternAssignment11 {
     public static void main(String[] args) {
         int row=4;

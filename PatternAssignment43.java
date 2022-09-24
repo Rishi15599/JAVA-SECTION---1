@@ -3,6 +3,10 @@
 //16 25 36
 //49 64 81 100
 
+
+
+
+
 public class PatternAssignment43 {
     public static void main(String[] args) {
         int row=4;

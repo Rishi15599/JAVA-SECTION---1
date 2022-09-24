@@ -1,3 +1,9 @@
+// AAAAA
+// 11111
+// BBBBB
+// 22222
+// CCCCC
+
 public class PatternAssignment42 {
     public static void main(String[] args) {
         int num=1;

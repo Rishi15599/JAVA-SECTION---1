@@ -1,3 +1,8 @@
+// 1
+// 23
+// 451
+// 2345
+
 public class PatternAssignment29 {
     public static void main(String[] args) {
         int row=4;

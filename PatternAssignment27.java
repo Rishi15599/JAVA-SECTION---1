@@ -1,3 +1,8 @@
+// 1
+// ab
+// 123
+// abcd
+
 public class PatternAssignment27 {
  public static void main(String[] args) {
     int row=4;

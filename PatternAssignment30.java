@@ -1,3 +1,8 @@
+// 1
+// 32
+// 654
+// 10987
+
 public class PatternAssignment30 {
     public static void main(String[] args) {
         int row=4;

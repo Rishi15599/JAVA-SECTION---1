@@ -1,4 +1,10 @@
 //write a program to print Right down Mirror Star Pattern
+// *****
+//  ****
+//   ***
+//    **
+//     *
+
 public class PatternAssignment6 {
     public static void main(String[] args) {
         int row=5;

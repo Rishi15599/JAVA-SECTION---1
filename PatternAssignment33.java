@@ -1,3 +1,8 @@
+// 1010101
+// 01010
+// 101
+// 0
+
 public class PatternAssignment33 {
     public static void main(String[] args) {
         int row=4;

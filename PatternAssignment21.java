@@ -1,3 +1,9 @@
+// A1111
+// 1B  1
+// 1 C 1
+// 1  D1
+// 1111E
+
 public class PatternAssignment21 {
     public static void main(String[] args) {
         int row=5;

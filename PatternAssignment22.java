@@ -1,3 +1,8 @@
+// 1a3b
+// 5c7d
+// 9e1f
+// 3g5h
+
 public class PatternAssignment22 {
     public static void main(String[] args) {
         int row=4;

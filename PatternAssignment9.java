@@ -1,3 +1,8 @@
+// ***#
+// **#*
+// *#**
+// #***
+
 class PatternAssignment9 {
     public static void main(String[] args) {
         int row=4;

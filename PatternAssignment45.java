@@ -1,17 +1,15 @@
-// *******
-// *     *
-// *     *
-// *     *
-// *     *
-// *     *
-// *******
-
-public class PatternAssignmentQ {
+// *    
+//  *   
+//   *  
+//    * 
+//     *
+public class PatternAssignment45 {
+    int i=5;
+    int j=5;
     public static void main(String[] args) {
-        int row=7;
-        for(int i=1;i<=row;i++){
-            for(int j=1;j<=row;j++){
-                if(i==1 || i==row || j==1 || j==row){
+        for(int i=1;i<=5;i++){
+            for(int j=1;j<=5;j++){
+                if(i==j){
                     System.out.print("*");
                 }
                 else{
@@ -20,5 +18,6 @@ public class PatternAssignmentQ {
             }
             System.out.println();
         }
+
     }
 }

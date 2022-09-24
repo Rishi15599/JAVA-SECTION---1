@@ -1,3 +1,8 @@
+// 1234
+// abcd
+// 5678
+// efgh
+
 public class PatternAssignment20 {
     public static void main(String[] args) {
         int num=1;

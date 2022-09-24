@@ -1,3 +1,14 @@
+// java PatternAssignment41
+// *   *    
+// *  *     
+// * *      
+// **       
+// *        
+// **       
+// * *      
+// *  *     
+// *   * 
+
 public class PatternAssignment41 {
     public static void main(String[] args) {
         int row=9;

@@ -1,3 +1,8 @@
+// 1
+// 23
+// 456
+// 78910
+
 public class PatternAssignment24 {
     public static void main(String[] args) {
         int num=1;

@@ -1,3 +1,8 @@
+// 12345
+// 67891
+// 23456
+// 78912
+
 public class PatternAssignment23 {
     public static void main(String[] args) {
         int row=5;
